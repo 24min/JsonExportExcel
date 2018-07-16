@@ -1,3 +1,5 @@
+> 不在更新维护, 移步[js-export-excel](https://github.com/cuikangjie/js-export-excel)
+
 # JsonExportExcel
 
 > [json导出excel](https://cuikangjie.github.io/JsonExportExcel/) 支持中文
